@@ -1,8 +1,8 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "xx-test-2",
+    "productName": "xx-monitoring",
     "version": "0.0.1",
-    "identifier": "IMDb.plotly.desktop",
+    "identifier": "com.bridge.desktop",
     "app": {
         "security": {
             "assetProtocol": {
